@@ -21,6 +21,17 @@ I'm Kris, a Fullstack developer from **Beijing, China**, currently living in **L
 ![](https://img.shields.io/badge/Windows-rgb(1,116,205).svg?logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Android-rgb(115,187,86).svg?logo=android&logoColor=white)
 ![](https://img.shields.io/badge/ARM-rgb(0,143,190).svg?logo=arm&logoColor=white)
+![](https://img.shields.io/badge/Xilinx-rgb(77,122,106).svg?logo=amd&logoColor=white)
+![](https://img.shields.io/badge/Tensorflow-rgb(230,138,35).svg?logo=Tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Pytorch-rgb(231,74,43).svg?logo=Pytorch&logoColor=white)
+![](https://img.shields.io/badge/TensorRT-rgb(114,179,0).svg?logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/ONNX-rgb(173,173,173).svg?logo=onnx&logoColor=white)
+![](https://img.shields.io/badge/Keras-rgb(201,0,0).svg?logo=Keras&logoColor=white)
+![](https://img.shields.io/badge/OpenVINO-rgb(105,35,232).svg?logo=intel&logoColor=white)
+![](https://img.shields.io/badge/Caffe-rgb(48,56,70).svg?logo=meta&logoColor=white)
+![](https://img.shields.io/badge/MXNet-rgb(3,136,197).svg?logo=Apache&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-rgb(135,211,100).svg?logo=OpenCV&logoColor=white)
+![](https://img.shields.io/badge/Halcon-rgb(75,55,0).svg?logo=MVTec&logoColor=white)
 
 
 ### Tools
@@ -40,10 +51,13 @@ I'm Kris, a Fullstack developer from **Beijing, China**, currently living in **L
 ![](https://img.shields.io/badge/Gitlab-rgb(242,106,37).svg?logo=gitlab&logoColor=white)
 ![](https://img.shields.io/badge/Gitee-rgb(193,28,34).svg?logo=gitee&logoColor=white)
 ![](https://img.shields.io/badge/Stack_Overflow-3k+-gray.svg?logo=stack-overflow&labelColor=orange&logoColor=white)
+![](https://img.shields.io/badge/MobaXterm-rgb(192,255,2).svg?logo=Mobatek-MobaXterm&logoColor=white)
+![](https://img.shields.io/badge/Steam-rgb(18,106,152).svg?logo=Steam&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-rgb(139,87,198).svg?logo=Visual-Studio&logoColor=white)
+![](https://img.shields.io/badge/Typora-rgb(255,255,255).svg?logo=Typora-markdown&logoColor=white)
 
 
-
-### Visitor Count
+### Realtime Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Mickeyyyang/count.svg)
 
 ### About My Github
