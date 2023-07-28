@@ -53,7 +53,7 @@ I'm Kris, a Fullstack developer from **Beijing, China**, currently living in **L
 ![](https://img.shields.io/badge/ESLint-rgb(124,124,234).svg?logo=ESLint&logoColor=white)
 ![](https://img.shields.io/badge/Sublime-rgb(255,151,4).svg?logo=Sublimetext&logoColor=white)
 ![](https://img.shields.io/badge/CSDN-rgb(252,85,49).svg?logo=csdn_net&logoColor=white)
-![](https://img.shields.io/badge/Github-rgb(0,0,0).svg?logo=github&logoColor=white)
+![](https://img.shields.io/badge/Github-rgb(0,0,0).svg?logo=github&logoColor=black)
 ![](https://img.shields.io/badge/Gitlab-rgb(242,106,37).svg?logo=gitlab&logoColor=white)
 ![](https://img.shields.io/badge/Gitee-rgb(193,28,34).svg?logo=gitee&logoColor=white)
 ![](https://img.shields.io/badge/Stack_Overflow-3k+-gray.svg?logo=stack-overflow&labelColor=orange&logoColor=white)
