@@ -2,7 +2,8 @@
 ## :boy: Hey! Nice to see you. :sparkling_heart:
 Welcome to my page!
 
-I'm Kris, a Fullstack developer from **Beijing, China**, currently living in **London, UK**.
+I'm Kris, a Fullstack developer from **Beijing, China** <img src="./CN-Flag2.png" title="NAME" width="1.5%" height="1.5%">, currently living in **London, UK**.
+
 
 ### Things I code with 
 ![正常大小的圆角矩形](https://img.shields.io/badge/C-rgb(98,149,204).svg?logo=c&logoColor=white)
