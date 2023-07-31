@@ -5,7 +5,7 @@ Welcome to my page!
 :alien: I'm Kris, a Fullstack developer from **Beijing, China** <img src="./CN-Flag2.png" title="NAME" width="1.5%" height="1.5%">, currently living in **London, UK**.
 
 
-### Things I code with 
+## :zap: Things I code with 
 ![正常大小的圆角矩形](https://img.shields.io/badge/C-rgb(98,149,204).svg?logo=c&logoColor=white)
 ![正常大小的圆角矩形](https://img.shields.io/badge/C++-green.svg?logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Qt-rgb(63,199,79).svg?logo=qt&logoColor=white)
@@ -16,28 +16,34 @@ Welcome to my page!
 ![](https://img.shields.io/badge/PHP-rgb(115,119,173).svg?logo=php&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-rgb(227,79,38).svg?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-rgb(19,170,82).svg?logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Linux-rgb(244,116,33).svg?logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Windows-rgb(1,116,205).svg?logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Android-rgb(115,187,86).svg?logo=android&logoColor=white)
-![](https://img.shields.io/badge/OpenCV-rgb(135,211,100).svg?logo=OpenCV&logoColor=white)
-![](https://img.shields.io/badge/Halcon-rgb(234,186,43).svg?logo=MVTec&logoColor=white)
-![](https://img.shields.io/badge/ARM-rgb(0,143,190).svg?logo=arm&logoColor=white)
-![](https://img.shields.io/badge/Xilinx-rgb(77,122,106).svg?logo=amd&logoColor=white)
-![](https://img.shields.io/badge/CUDA-rgb(117,184,0).svg?logo=nvidia&logoColor=white)
-![](https://img.shields.io/badge/Ascent-rgb(228,0,17).svg?logo=huawei&logoColor=white)
+![](https://img.shields.io/badge/MindScope-rgb(228,0,17).svg?logo=huawei&logoColor=white)
 ![](https://img.shields.io/badge/Tensorflow-rgb(230,138,35).svg?logo=Tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Pytorch-rgb(231,74,43).svg?logo=Pytorch&logoColor=white)
-![](https://img.shields.io/badge/TensorRT-rgb(114,179,0).svg?logo=nvidia&logoColor=white)
-![](https://img.shields.io/badge/ONNX-rgb(173,173,173).svg?logo=onnx&logoColor=white)
-![](https://img.shields.io/badge/Keras-rgb(201,0,0).svg?logo=Keras&logoColor=white)
-![](https://img.shields.io/badge/OpenVINO-rgb(105,35,232).svg?logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/Caffe-rgb(48,56,70).svg?logo=meta&logoColor=white)
 ![](https://img.shields.io/badge/MXNet-rgb(3,136,197).svg?logo=Apache&logoColor=white)
+![](https://img.shields.io/badge/Keras-rgb(201,0,0).svg?logo=Keras&logoColor=white)
+![](https://img.shields.io/badge/TensorRT-rgb(114,179,0).svg?logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/ONNX-rgb(173,173,173).svg?logo=onnx&logoColor=white)
+![](https://img.shields.io/badge/OpenVINO-rgb(105,35,232).svg?logo=intel&logoColor=white)
+![](https://img.shields.io/badge/CUDA-rgb(117,184,0).svg?logo=nvidia&logoColor=white)
 ![](https://img.shields.io/badge/Gymnasium-rgb(44,84,80).svg?logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/ROS-rgb(42,58,91).svg?logo=robot-operating-system&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-rgb(135,211,100).svg?logo=OpenCV&logoColor=white)
+![](https://img.shields.io/badge/Halcon-rgb(234,186,43).svg?logo=MVTec&logoColor=white)
 
 
-### Tools
+## :zap: Platforms (Software & Hardware)
+![](https://img.shields.io/badge/Linux-rgb(242,190,12).svg?logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Ubuntu-rgb(244,116,33).svg?logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Centos-rgb(162,81,141).svg?logo=Centos&logoColor=white)
+![](https://img.shields.io/badge/Windows-rgb(1,116,205).svg?logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Android-rgb(115,187,86).svg?logo=android&logoColor=white)
+![](https://img.shields.io/badge/HarmonyOS-rgb(16,80,255).svg?logo=HarmonyOS&logoColor=white)
+![](https://img.shields.io/badge/ARM-rgb(0,143,190).svg?logo=arm&logoColor=white)
+![](https://img.shields.io/badge/Xilinx-rgb(170,82,74).svg?logo=amd&logoColor=black)
+
+
+## :zap: Tools
 ![](https://img.shields.io/badge/ChatGPT-rgb(17,162,129).svg?logo=openAI&logoColor=white)
 ![](https://img.shields.io/badge/Steam-rgb(18,106,152).svg?logo=Steam&logoColor=white)
 ![](https://img.shields.io/badge/PlayStation®5-rgb(78,82,201).svg?logo=PlayStation&logoColor=black)
@@ -67,16 +73,19 @@ Welcome to my page!
 
 
 
-### Realtime Visitor Count
+## :zap: Realtime Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Mickeyyyang/count.svg)
 
-### About My Github
+
+## :zap: About My Github
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mickeyyyang&show_icons=true&count_private=true&theme=slateorange&rank_icon=github&hide_title=true&card_width=400px&include_all_commits=true&line_height=26) 
 
-### Most Used Languages
+
+## :zap: Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=solarized-light&size_weight=0.5&count_weight=0.5&hide_title=true&langs_count=8&layout=pie&card_width=300)
 
-### Wakatime Stats
+
+## :zap: Wakatime Stats
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_title=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
 
