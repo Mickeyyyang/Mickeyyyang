@@ -1,4 +1,3 @@
-
 ![](https://raw.githubusercontent.com/Mickeyyyang/Mickeyyyang/main/assets/github-contribution-grid-snake.svg)    
 
 ## :boy: Hey! Nice to see you. :sparkling_heart:
@@ -88,7 +87,7 @@ Welcome to my page!
 
 
 ## :zap: Wakatime Stats
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_title=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_title=true&theme=gruvbox_light&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- 注释行 -->
