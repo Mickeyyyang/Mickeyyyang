@@ -2,7 +2,7 @@
 ## :boy: Hey! Nice to see you. :sparkling_heart:
 Welcome to my page!
 
-I'm Kris, a Fullstack developer from **Beijing, China** <img src="./CN-Flag2.png" title="NAME" width="1.5%" height="1.5%">, currently living in **London, UK**.
+:alien: I'm Kris, a Fullstack developer from **Beijing, China** <img src="./CN-Flag2.png" title="NAME" width="1.5%" height="1.5%">, currently living in **London, UK**.
 
 
 ### Things I code with 
@@ -71,7 +71,13 @@ I'm Kris, a Fullstack developer from **Beijing, China** <img src="./CN-Flag2.png
 ![Visitor Count](https://profile-counter.glitch.me/Mickeyyyang/count.svg)
 
 ### About My Github
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mickeyyyang&show_icons=true&count_private=true)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mickeyyyang&show_icons=true&count_private=true&theme=slateorange&rank_icon=github&hide_title=true&card_width=400px&include_all_commits=true&line_height=26) 
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=solarized-light&size_weight=0.5&count_weight=0.5&hide_title=true&langs_count=8&layout=pie&card_width=300)
+
+### Wakatime Stats
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_title=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- 注释行 -->
