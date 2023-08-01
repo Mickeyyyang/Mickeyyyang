@@ -1,9 +1,13 @@
-![](https://raw.githubusercontent.com/Mickeyyyang/Mickeyyyang/tree/main/assets/github-contribution-grid-snake.svg)    
 
 ## :boy: Hey! Nice to see you. :sparkling_heart:
 Welcome to my page!
 
 :alien: I'm Kris, a Fullstack developer from **Beijing, China** <img src="./CN-Flag2.png" title="NAME" width="1.5%" height="1.5%">, currently living in **London, UK**.
+
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Mickeyyyang/Mickeyyyang/assets/github-contribution-grid-snake.svg" /></div>
+
+![](https://raw.githubusercontent.com/Mickeyyyang/Mickeyyyang/main/assets/github-contribution-grid-snake.svg)    
 
 
 ## :zap: Things I code with 
