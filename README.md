@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Mickeyyyang/Mickeyyyang/main/assets/github-contribution-grid-snake.svg)    
+![](https://raw.githubusercontent.com/Mickeyyyang/Mickeyyyang/tree/main/assets/github-contribution-grid-snake.svg)    
 
 ## :boy: Hey! Nice to see you. :sparkling_heart:
 Welcome to my page!
