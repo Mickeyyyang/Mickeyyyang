@@ -2,12 +2,26 @@
 <!-- ![](https://raw.githubusercontent.com/Mickeyyyang/Mickeyyyang/main/assets/github-contribution-grid-snake.svg)  -->
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/Mickeyyyang/Mickeyyyang/assets/github-contribution-grid-snake.svg" /></div>  -->
 
-## :boy: Hey! Nice to see you. :sparkling_heart:
-Welcome to my page!
+<div align="center">
 
-:alien: I'm Kris, a Fullstack developer from **Beijing, China** <img src="./CN-Flag2.png" title="NAME" width="1.5%" height="1.5%">, currently living in **London, UK**.
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=40&lines=The+traveler+often+arrives%2C+and+the+doer+often+succeeds.)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=40&lines=The+time+for+action+is+now.+It%E2%80%99s+never+too+late+to+do+something.)](https://git.io/typing-svg)
 
-## :zap: Things I code with 
+<!-- <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
+width="900"  height="3">  -->
+</div>
+
+### :boy: Hey! Nice to see you. :sparkling_heart:
+
+<!-- <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330"  />  -->
+<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="430" height="300" />
+
+- :alien: Welcome to my page!
+- :robot: I'm `Kris`, a Fullstack developer from Beijing, China.
+- 🚵‍♂️ I'm currently learning `JS`, `Vue`, `React`, `DevOps`, etc.
+
+
+### :zap: Things I code with 
 ![正常大小的圆角矩形](https://img.shields.io/badge/C-rgb(98,149,204).svg?logo=c&logoColor=white)
 ![正常大小的圆角矩形](https://img.shields.io/badge/C++-green.svg?logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Qt-rgb(63,199,79).svg?logo=qt&logoColor=white)
@@ -34,7 +48,7 @@ Welcome to my page!
 ![](https://img.shields.io/badge/Halcon-rgb(234,186,43).svg?logo=MVTec&logoColor=white)
 
 
-## :zap: Platforms (Software & Hardware)
+### :zap: Platforms (Software & Hardware)
 ![](https://img.shields.io/badge/Linux-rgb(242,190,12).svg?logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Ubuntu-rgb(244,116,33).svg?logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Centos-rgb(162,81,141).svg?logo=Centos&logoColor=white)
@@ -45,7 +59,7 @@ Welcome to my page!
 ![](https://img.shields.io/badge/Xilinx-rgb(170,82,74).svg?logo=amd&logoColor=black)
 
 
-## :zap: Tools
+### :zap: Tools
 ![](https://img.shields.io/badge/ChatGPT-rgb(17,162,129).svg?logo=openAI&logoColor=white)
 ![](https://img.shields.io/badge/Steam-rgb(18,106,152).svg?logo=Steam&logoColor=white)
 ![](https://img.shields.io/badge/PlayStation®5-rgb(78,82,201).svg?logo=PlayStation&logoColor=black)
@@ -74,23 +88,23 @@ Welcome to my page!
 ![](https://img.shields.io/badge/MuJoCo-rgb(22,43,97).svg?logo=MuJoCo&logoColor=white)
 
 
-## :zap: Realtime Visitor Count
+### :zap: Realtime Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Mickeyyyang/count.svg)
 
 
-## :zap: About My Github
+### :zap: About My Github
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mickeyyyang&show_icons=true&count_private=true&theme=slateorange&rank_icon=github&hide_title=true&card_width=400px&include_all_commits=true&line_height=26) 
 
 
-## :zap: Most Used Languages
+### :zap: Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=solarized-light&size_weight=0.5&count_weight=0.5&hide_title=true&langs_count=8&layout=pie&card_width=300)
 
 
-## :zap: Wakatime Stats
+### :zap: Wakatime Stats
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_title=true&theme=gruvbox_light&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## :zap: bibilili
+### :zap: bibilili
 ![Followers](https://bilistats.lonelyion.com/followers?uid=269953094)
 ![Following](https://bilistats.lonelyion.com/following?uid=269953094)
 <!-- ![Live Status](https://bilistats.lonelyion.com/live_status?uid=269953094)  -->
