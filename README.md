@@ -1,14 +1,11 @@
+<!-- ## GitHub Contributions  -->
+<!-- ![](https://raw.githubusercontent.com/Mickeyyyang/Mickeyyyang/main/assets/github-contribution-grid-snake.svg)  -->
+<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/Mickeyyyang/Mickeyyyang/assets/github-contribution-grid-snake.svg" /></div>
 
 ## :boy: Hey! Nice to see you. :sparkling_heart:
 Welcome to my page!
 
 :alien: I'm Kris, a Fullstack developer from **Beijing, China** <img src="./CN-Flag2.png" title="NAME" width="1.5%" height="1.5%">, currently living in **London, UK**.
-
-
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Mickeyyyang/Mickeyyyang/assets/github-contribution-grid-snake.svg" /></div>
-
-![](https://raw.githubusercontent.com/Mickeyyyang/Mickeyyyang/main/assets/github-contribution-grid-snake.svg)    
-
 
 ## :zap: Things I code with 
 ![正常大小的圆角矩形](https://img.shields.io/badge/C-rgb(98,149,204).svg?logo=c&logoColor=white)
@@ -77,7 +74,6 @@ Welcome to my page!
 ![](https://img.shields.io/badge/MuJoCo-rgb(22,43,97).svg?logo=MuJoCo&logoColor=white)
 
 
-
 ## :zap: Realtime Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Mickeyyyang/count.svg)
 
@@ -93,6 +89,15 @@ Welcome to my page!
 ## :zap: Wakatime Stats
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_title=true&theme=gruvbox_light&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## :zap: bibilili
+![Followers](https://bilistats.lonelyion.com/followers?uid=269953094)
+![Following](https://bilistats.lonelyion.com/following?uid=269953094)
+![Video Views](https://bilistats.lonelyion.com/views?uid=269953094)
+![Article Views](https://bilistats.lonelyion.com/views?uid=269953094&type=article)
+![Likes](https://bilistats.lonelyion.com/views?uid=269953094&type=likes)
+![Level](https://bilistats.lonelyion.com/level?uid=269953094)
+<!-- ![B站统计](https://stats.justsong.cn/api/bilibili/?id=269953094&theme=solarized-light&hide_title=true)  -->
 
 <!-- 注释行 -->
 <!-- ![正常大小的圆角矩形](https://img.shields.io/badge/C++-11/17/19/21-gray.svg?logo=c%2B%2B&labelColor=green) -->
