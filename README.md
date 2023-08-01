@@ -2,23 +2,29 @@
 <!-- ![](https://raw.githubusercontent.com/Mickeyyyang/Mickeyyyang/main/assets/github-contribution-grid-snake.svg)  -->
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/Mickeyyyang/Mickeyyyang/assets/github-contribution-grid-snake.svg" /></div>  -->
 
-<div align="center">
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=40&lines=The+traveler+often+arrives%2C+and+the+doer+often+succeeds.)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=40&lines=The+time+for+action+is+now.+It%E2%80%99s+never+too+late+to+do+something.)](https://git.io/typing-svg)
 
-<!-- <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
-width="900"  height="3">  -->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=900&height=30&size=23&lines=The+time+for+action+is+now.+It%E2%80%99s+never+too+late+to+do+something.)](https://git.io/typing-svg)
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
+width="1500"  height="3"> 
+
 </div>
 
-### :boy: Hey! Nice to see you. :sparkling_heart:
 
 <!-- <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330"  />  -->
-<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="400" height="270" />
+<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="350" height="220" />
+
+### :boy: Hey! Nice to see you. :sparkling_heart:
 
 - :alien: Welcome to my page!
 - :robot: I'm `Kris`, a Fullstack developer from Beijing, China.
 - 🚵‍♂️ I'm currently learning `JS`, `Vue`, `React`, `DevOps`, etc.
+- :computer: Research: Robotics, Computer Vision, Artificial Intelligence, etc.
+- :yellow_heart: Hobby: music:headphones:, billiards:8ball:, table tennis:ping_pong:, travel:bullettrain_front:, etc.
+- :e-mail: Ask me about anything [here](mailto:bitxuyang@gmail.com).
 
 
 ### :zap: Things I code with 
@@ -104,7 +110,7 @@ width="900"  height="3">  -->
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_title=true&theme=gruvbox_light&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### :zap: bibilili
+### :zap: bilibili
 ![Followers](https://bilistats.lonelyion.com/followers?uid=269953094)
 ![Following](https://bilistats.lonelyion.com/following?uid=269953094)
 <!-- ![Live Status](https://bilistats.lonelyion.com/live_status?uid=269953094)  -->
