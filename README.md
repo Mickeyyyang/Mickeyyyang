@@ -23,10 +23,11 @@ width="1500"  height="3">
 </div>
 
 
-<!-- <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330"  />  -->
-<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="350" height="220" />
 
 ### :boy: Hey! Nice to see you. :sparkling_heart:
+
+<!-- <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330"  />  -->
+<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="350" height="220" />
 
 - :alien: Welcome to my page!
 - :robot: I'm `Kris`, a Fullstack developer from Beijing, China.
