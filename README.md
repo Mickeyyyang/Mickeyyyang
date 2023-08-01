@@ -2,13 +2,22 @@
 <!-- ![](https://raw.githubusercontent.com/Mickeyyyang/Mickeyyyang/main/assets/github-contribution-grid-snake.svg)  -->
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/Mickeyyyang/Mickeyyyang/assets/github-contribution-grid-snake.svg" /></div>  -->
 
+<!-- snake animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mickeyyyang/Mickeyyyang/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mickeyyyang/Mickeyyyang/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=40&lines=The+traveler+often+arrives%2C+and+the+doer+often+succeeds.)](https://git.io/typing-svg) -->
+<!--  插入空行 -->
+<br>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=900&height=30&size=23&lines=The+time+for+action+is+now.+It%E2%80%99s+never+too+late+to+do+something.)](https://git.io/typing-svg)
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=900&height=30&size=23&lines=The+time+for+action+is+now.+It%E2%80%99s+never+too+late+to+do+something.)](https://git.io/typing-svg)
+  <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
 width="1500"  height="3"> 
 
 </div>
