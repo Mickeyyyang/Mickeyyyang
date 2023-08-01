@@ -34,6 +34,7 @@ width="1500"  height="3">
 - :computer: Research: Robotics, Computer Vision, Embodied AI, etc.
 - :yellow_heart: Hobby: music:headphones:, billiards:8ball:, table tennis:ping_pong:, travel:bullettrain_front:, etc.
 - :e-mail: Ask me about anything [here](mailto:bitxuyang@gmail.com).
+- :book: Stay hungry, stay foolish!
 
 
 ### :zap: Things I code with 
