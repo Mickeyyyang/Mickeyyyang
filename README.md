@@ -14,7 +14,7 @@ width="900"  height="3">  -->
 ### :boy: Hey! Nice to see you. :sparkling_heart:
 
 <!-- <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330"  />  -->
-<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="430" height="300" />
+<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="400" height="270" />
 
 - :alien: Welcome to my page!
 - :robot: I'm `Kris`, a Fullstack developer from Beijing, China.
