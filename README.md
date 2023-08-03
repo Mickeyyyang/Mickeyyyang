@@ -33,7 +33,7 @@ width="1500"  height="3">
 - :robot: I'm `Kris`, a Fullstack developer from Beijing, China.
 - 🚵‍♂️ I'm currently learning `JS`, `Vue`, `React`, `DevOps`, etc.
 - :computer: Research: Robotics, Computer Vision, Embodied AI, etc.
-- :yellow_heart: Hobby: music:headphones:, billiards:8ball:, table tennis:ping_pong:, travel:bullettrain_front:, etc.
+- :yellow_heart: Hobby: music:headphones:, billiards:8ball:, stock:dollar:, travel:bullettrain_front:, etc.
 - :e-mail: Ask me about anything [here](mailto:bitxuyang@gmail.com).
 - :book: Stay hungry, stay foolish!
 
