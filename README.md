@@ -100,6 +100,7 @@ width="1500"  height="3">
   [![](https://img.shields.io/badge/Adobe-rgb(250,15,0).svg?logo=Adobe&logoColor=white)](https://www.adobe.com/)
   [![](https://img.shields.io/badge/Docker-rgb(36,150,237).svg?logo=docker&logoColor=white)](https://www.docker.com/)
   [![](https://img.shields.io/badge/Vim-rgb(1,152,51).svg?logo=vim&logoColor=white)](https://www.vim.org/)
+  [![](https://img.shields.io/badge/Tmux-rgb(21,179,27).svg?logo=Tmux&logoColor=gray)](https://typora.io/)
   [![](https://img.shields.io/badge/Git-rgb(240,80,50).svg?logo=git&logoColor=white)](https://git-scm.com/)
   [![](https://img.shields.io/badge/CMake-rgb(6,79,152).svg?logo=CMake&labelColor=green&logoColor=white)](https://cmake.org/)
   [![](https://img.shields.io/badge/Anaconda-rgb(57,175,69).svg?logo=anaconda&labelColor=orange&logoColor=white)](https://www.anaconda.com/)
@@ -120,6 +121,7 @@ width="1500"  height="3">
   [![](https://img.shields.io/badge/SolidWorks-rgb(218,41,28).svg?logo=solid&logoColor=white)](https://www.solidworks.com/)
   [![](https://img.shields.io/badge/Markdown-rgb(0,168,222).svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
   [![](https://img.shields.io/badge/Typora-rgb(255,255,255).svg?logo=googlemarketingplatform&logoColor=black)](https://typora.io/)
+
 
 </div>
 
