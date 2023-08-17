@@ -40,7 +40,7 @@ width="1500"  height="3">
 
 <div align="center">
   
-  ### :zap: Things I code with 
+  ### :zap: Things I code with :beers:
 
   [![正常大小的圆角矩形](https://img.shields.io/badge/C-rgb(98,149,204).svg?logo=c&logoColor=white)](https://www.w3schools.com/c/)
   [![正常大小的圆角矩形](https://img.shields.io/badge/C++-green.svg?logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
@@ -70,7 +70,7 @@ width="1500"  height="3">
   
 
   
-  ### :zap: Platforms (Software & Hardware)
+  ### :zap: Platforms (Software & Hardware) :beers:
 
   [![](https://img.shields.io/badge/Linux-rgb(242,190,12).svg?logo=linux&logoColor=black)](https://www.linux.org/)
   [![](https://img.shields.io/badge/Ubuntu-rgb(244,116,33).svg?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
@@ -91,7 +91,7 @@ width="1500"  height="3">
   
 
   
-  ### :zap: Tools
+  ### :zap: Tools :beers:
   [![](https://img.shields.io/badge/ChatGPT-rgb(17,162,129).svg?logo=openAI&logoColor=white)](https://chat.openai.com/auth/login)
   [![](https://img.shields.io/badge/Steam-rgb(18,106,152).svg?logo=Steam&logoColor=white)](https://store.steampowered.com/)
   [![](https://img.shields.io/badge/PlayStation®5-rgb(78,82,201).svg?logo=PlayStation&logoColor=black)](https://www.playstation.com/en-us/)
@@ -130,23 +130,23 @@ width="1500"  height="3">
 
 <div align="center">
   
-  ### :zap: Realtime Visitor Count
+  ### :zap: Realtime Visitor Count :beers:
   ![Visitor Count](https://profile-counter.glitch.me/Mickeyyyang/count.svg)
   
   
-  ### :zap: About My Github
+  ### :zap: About My Github :beers:
   ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mickeyyyang&show_icons=true&count_private=true&theme=slateorange&rank_icon=github&hide_title=true&card_width=400px&include_all_commits=true&line_height=26) 
   
   
-  ### :zap: Most Used Languages
+  ### :zap: Most Used Languages :beers:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=solarized-light&size_weight=0.5&count_weight=0.5&hide_title=true&langs_count=8&layout=pie&card_width=300)
   
   
-  ### :zap: Wakatime Stats
+  ### :zap: Wakatime Stats :beers:
   [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_title=true&theme=gruvbox_light&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   
-  ### :zap: bilibili
+  ### :zap: bilibili :beers:
   [![Followers](https://bilistats.lonelyion.com/followers?uid=269953094)](https://www.bilibili.com/)
   [![Following](https://bilistats.lonelyion.com/following?uid=269953094)](https://www.bilibili.com/)
   <!-- ![Live Status](https://bilistats.lonelyion.com/live_status?uid=269953094)  -->
