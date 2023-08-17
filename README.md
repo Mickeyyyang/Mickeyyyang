@@ -38,7 +38,6 @@ width="1500"  height="3">
 - :book: Stay hungry, stay foolish!
 
 
-
 <div align="center">
   
   ### :zap: Things I code with 
