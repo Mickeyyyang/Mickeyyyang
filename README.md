@@ -5,7 +5,6 @@
 
 
 
-
 <!-- snake animation -->
 <div align="center">
   <picture>
